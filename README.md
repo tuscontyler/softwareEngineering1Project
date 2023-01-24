@@ -1,2 +1,1 @@
-# softwareEngineering1Project
-This project was a team long semester project that i worked on for college back in 2020
+# cen3031-80065-group4
